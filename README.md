@@ -28,17 +28,13 @@ Captura
 
 <div align="center">
     <center>
-        <table border="0">
-            <tr>
-                <td>
-                    <img src="/img/captura.png" width="300">
-                </td>
-                <td>
-                    <img src="/img/original.png" width="300">
-                </td>
-             </tr>
-        </table>
+        <img src="/img/captura.png" width="300">
     </center>
 </div>
-<br>
+<div align="center">
+    <center>
+        <img src="/img/original.png" width="300">
+    </center>
+</div>
+<br><br>
 
