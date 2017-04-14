@@ -26,15 +26,11 @@ Dentro de Android Studio:
 Captura
 ---------
 
-<div align="center">
-    <center>
-        <img src="/img/captura.png" width="300">
-    </center>
-</div>
-<div align="center">
-    <center>
-        <img src="/img/original.png" width="300">
-    </center>
-</div>
-<br><br>
+<center>
+	<img src="/img/original.png" width="400">
+</center>
+<br>Demo</br>
+<center>
+	<img src="/img/captura.png" width="400">
+</center>
 
